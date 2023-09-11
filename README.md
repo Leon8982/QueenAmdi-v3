@@ -64,7 +64,7 @@
   </a>
   </p>
  <p align="center">
-  <a href="https://wa.me/94757405652">
+  <a href="https://wa.me/918982860407">
     <img src="https://img.shields.io/badge/Contact%20Me%20On%20Whatsapp-Queen%20Amdi%20Bot-purple&style=plastic">
 
   </a>
